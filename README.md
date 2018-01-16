@@ -12,3 +12,9 @@ exercise from strategical game and heuristic learning
 ![equation](http://latex.codecogs.com/gif.latex?argmax_i%28%5Cmu_i&plus;0.4%5Csqrt%7B%5Cfrac%7B%5Clog%28n_%7Btotal%7D%7D%7Bn_i%7D%7D%29)
 6. générer le fichier csv avec des positions and for each of them the best blow
 
+## represent checkerboard and blows
+
+I'm thinking about a list of list in Python or JavaScript. 
+
+
+
