@@ -1,3 +1,8 @@
+from graphics import GraphicsWindow
+
+win = GraphicsWindow(400,400)
+canvas = win.canvas()
+
 offset_x = 10      # Distance from left edge.
 offset_y = 10      # Distance from top.
 cell_size = 10     # Height and width of checkerboard squares.
