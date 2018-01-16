@@ -14,7 +14,13 @@ exercise from strategical game and heuristic learning
 
 ## represent checkerboard and blows
 
-I'm thinking about a list of list in Python or JavaScript. 
+Done in Python in an array
+
+## find all possible blows
+
+create a coupsPossibles function to test what are the possible attempts :
+check if there is two continuous cell in the matrix and store them.
+Do a for loop, and test for each cell if there is the one below and on the right is okay to play
 
 
 
